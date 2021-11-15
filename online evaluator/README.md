@@ -12,7 +12,7 @@ And when the "givVal.py" script is executed it will evaluate and store in Fireba
 (This dataset is manually written by us and is based on random assumptions.)
 
 
-### Here is that Dataset: https://github.com/pragya2002/Teaching-Made-Easy-HCI/blob/main/online%20evaluator/Modules/finaldataset.csv
+### Here is that Dataset: https://github.com/pragya2002/AI_project/blob/main/online%20evaluator/Modules/finaldataset.csv
 
 
 ## For doing this evaluation 3 Parameters have been used:
