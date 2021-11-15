@@ -55,14 +55,14 @@ Fuzzy Logic is used to give the value of qst.
 ## Usage:
 - First of all clone this repository using following command:
 
-```git clone https://github.com/pragya2002/Teaching-Made-Easy-HCI.git```
+```git clone https://github.com/pragya2002/AI_project.git```
 
-or download https://github.com/pragya2002/Teaching-Made-Easy-HCI this repository. 
+or download https://github.com/pragya2002/AI_project this repository. 
 
 Then You can find the "requirements.txt" file at the root level of this project which contains all the requirements of this project. For installing these requirements, open the terminal and run the following command
 
 ```
-cd path/to/Teaching-Made-Easy-HCI/online\ evaluator
+cd path/to/AI_project/online\ evaluator
 pip install -r requirements.txt
 ```
 <br>
